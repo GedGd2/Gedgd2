@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- 🔥 I have 7 years experience both Java & Js<br>- JavaScript, Discord.js, Node.js, React.js<br> - Vanilla Java, SpigotMC/PaperMC<br> - SpringBoot, Vaadin<br><br> - MQ5, PineScript</p>
+<p align="left">- 🔥 I have 7 years experience both Java & Js<br>- JavaScript, Discord.js, Node.js, React.js<br> - Vanilla Java, SpigotMC/PaperMC<br> - SpringBoot, Vaadin<br><br> - MQ5, PineScript<br></p>
 
 ###
 
